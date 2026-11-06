@@ -1,2 +1,15 @@
 .env
 .streamlit/secrets.toml
+
+
+tickets.sqlite
+*.sqlite
+]
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+.DS_Store

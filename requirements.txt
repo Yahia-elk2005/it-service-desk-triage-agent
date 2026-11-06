@@ -4,3 +4,4 @@ python-dotenv
 openai-agents
 fastapi
 pydantic
+gradio
